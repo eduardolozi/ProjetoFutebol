@@ -1,0 +1,15 @@
+C:\Users\eduar\Documents\ESTUDOS\C#\ProjetoFutebol\ProjetoFutebol\bin\Debug\net6.0\ProjetoFutebol.exe
+C:\Users\eduar\Documents\ESTUDOS\C#\ProjetoFutebol\ProjetoFutebol\bin\Debug\net6.0\ProjetoFutebol.deps.json
+C:\Users\eduar\Documents\ESTUDOS\C#\ProjetoFutebol\ProjetoFutebol\bin\Debug\net6.0\ProjetoFutebol.runtimeconfig.json
+C:\Users\eduar\Documents\ESTUDOS\C#\ProjetoFutebol\ProjetoFutebol\bin\Debug\net6.0\ProjetoFutebol.dll
+C:\Users\eduar\Documents\ESTUDOS\C#\ProjetoFutebol\ProjetoFutebol\bin\Debug\net6.0\ProjetoFutebol.pdb
+C:\Users\eduar\Documents\ESTUDOS\C#\ProjetoFutebol\ProjetoFutebol\obj\Debug\net6.0\ProjetoFutebol.csproj.AssemblyReference.cache
+C:\Users\eduar\Documents\ESTUDOS\C#\ProjetoFutebol\ProjetoFutebol\obj\Debug\net6.0\ProjetoFutebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\ESTUDOS\C#\ProjetoFutebol\ProjetoFutebol\obj\Debug\net6.0\ProjetoFutebol.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\ESTUDOS\C#\ProjetoFutebol\ProjetoFutebol\obj\Debug\net6.0\ProjetoFutebol.AssemblyInfo.cs
+C:\Users\eduar\Documents\ESTUDOS\C#\ProjetoFutebol\ProjetoFutebol\obj\Debug\net6.0\ProjetoFutebol.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\ESTUDOS\C#\ProjetoFutebol\ProjetoFutebol\obj\Debug\net6.0\ProjetoFutebol.dll
+C:\Users\eduar\Documents\ESTUDOS\C#\ProjetoFutebol\ProjetoFutebol\obj\Debug\net6.0\refint\ProjetoFutebol.dll
+C:\Users\eduar\Documents\ESTUDOS\C#\ProjetoFutebol\ProjetoFutebol\obj\Debug\net6.0\ProjetoFutebol.pdb
+C:\Users\eduar\Documents\ESTUDOS\C#\ProjetoFutebol\ProjetoFutebol\obj\Debug\net6.0\ProjetoFutebol.genruntimeconfig.cache
+C:\Users\eduar\Documents\ESTUDOS\C#\ProjetoFutebol\ProjetoFutebol\obj\Debug\net6.0\ref\ProjetoFutebol.dll
